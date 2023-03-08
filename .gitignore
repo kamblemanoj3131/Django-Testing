@@ -1,0 +1,9 @@
+# Ignore Django migrations
+**/migrations/
+**/migrations/*
+
+# Ignore Python bytecode
+**/__pycache__/
+**/__pycache__/*
+*.pyc
+*.pyo
